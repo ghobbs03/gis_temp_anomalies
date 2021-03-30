@@ -1,2 +1,1 @@
-# ucsd_bioinformatics2_week1
-Exploring reassembling of genomes using deBruijn graphs.
+# gis_temp_anomalies
